@@ -2,8 +2,6 @@
 
 Build boringssl, an openssl alternative from google: https://www.imperialviolet.org/2014/06/20/boringssl.html
 
-[![Build Status](https://travis-ci.org/springmeyer/boringssl-build.svg?branch=master)](https://travis-ci.org/springmeyer/boringssl-build)
-
 Boringssl source code lives at <https://boringssl.googlesource.com/boringssl>
 
 To build boringssl standalone and outside of chromium with cmake follow [these instructions](https://boringssl.googlesource.com/boringssl/+/3ce3c369cb05b4ba9dcaad79b552713e7fa3581f/BUILDING).
